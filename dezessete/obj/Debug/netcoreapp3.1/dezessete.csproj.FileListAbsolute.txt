@@ -1,0 +1,13 @@
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\bin\Debug\netcoreapp3.1\dezessete.exe
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\bin\Debug\netcoreapp3.1\dezessete.deps.json
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\bin\Debug\netcoreapp3.1\dezessete.runtimeconfig.json
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\bin\Debug\netcoreapp3.1\dezessete.runtimeconfig.dev.json
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\bin\Debug\netcoreapp3.1\dezessete.dll
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\bin\Debug\netcoreapp3.1\dezessete.pdb
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\obj\Debug\netcoreapp3.1\dezessete.csprojAssemblyReference.cache
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\obj\Debug\netcoreapp3.1\dezessete.AssemblyInfoInputs.cache
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\obj\Debug\netcoreapp3.1\dezessete.AssemblyInfo.cs
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\obj\Debug\netcoreapp3.1\dezessete.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\obj\Debug\netcoreapp3.1\dezessete.dll
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\obj\Debug\netcoreapp3.1\dezessete.pdb
+C:\Users\Pedro Daniel\Desktop\Trabalho\Desenv\Programas\dezessete\dezessete\obj\Debug\netcoreapp3.1\dezessete.genruntimeconfig.cache
