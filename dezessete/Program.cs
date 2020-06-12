@@ -8,6 +8,7 @@ namespace dezessete
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Teste");
+            Console.WriteLine("Teste 2");
         }
     }
 }
